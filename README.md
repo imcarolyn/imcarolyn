@@ -19,8 +19,7 @@
 ```
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcarolyn&show_icons=true&bg_color=45,ed90e9BF,4acff6BF&text_color=fff&title_color=fff&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imcarolyn&layout=compact&bg_color=45,4acff6,ed90e9&text_color=fff&title_color=fff&border_color=000)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=imcarolyn&show_icons=true&bg_color=45,ed90e9BF,4acff6BF&text_color=fff&title_color=fff&hide_border=true"/><img height="200px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imcarolyn&layout=compact&bg_color=45,4acff6BF,ed90e9BF&text_color=fff&title_color=fff&hide_border=true"/>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=heyimcarolyn)](https://github.com/gazf/github-readme-twitter)
 
